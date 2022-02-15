@@ -18,6 +18,14 @@ class MainActivity : AppCompatActivity() {
             startActivity(myIntent)
 
         }
+        btnSendMessage.setOnClickListener {
+
+//            1. 입력한 내용 추출
+            val
+
+//            2. 추출한 내용을 다른 화면에 절달(다른 화면으로 이동)
+
+        }
 
     }
 }
